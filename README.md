@@ -28,3 +28,7 @@ http://localhost:50006/todos
 ## firebase
 https://console.firebase.google.com/project/nuxt-todo-b7152/firestore/data~2Ftodos~2F34wpq1ZAVSSgrK1XiRdz?hl=ja
 
+
+- .envファイルにFirebaseのプロジェクトIDを設定
+`FIREBASE_PROJECT_ID = 'XXXXXXX'`
+
